@@ -1,0 +1,26 @@
+{
+  "name": "eatOut",
+  "version": "0.0.0",
+  "description": "Your favourite eating out app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "1.4.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sti-/eatOut.git"
+  },
+  "keywords": [
+    "eatout",
+    "restaurants"
+  ],
+  "author": "Cristi Naftanaila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sti-/eatOut/issues"
+  },
+  "homepage": "https://github.com/sti-/eatOut"
+}
