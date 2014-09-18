@@ -4,7 +4,7 @@
   "description": "Your favourite eating out app",
   "main": "server.js",
   "dependencies": {
-    "express": "1.4.9"
+    "express": "4.x"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
