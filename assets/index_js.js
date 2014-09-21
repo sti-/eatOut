@@ -7,7 +7,7 @@ $(".australia").hide();
 
 $("#filters").on("click", function() {
 
-alert("nu");
+alert("da");
 
 });
 });
