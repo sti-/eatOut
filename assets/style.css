@@ -1,0 +1,93 @@
+/*
+Theme Name: Test Theme
+Theme URI: http://www.google.com
+Author: Cristi
+Author URI: http://wordpress.org/
+Description:
+Version: 1.0
+License: None
+License URI: None
+Tags: test, theme
+Text Domain: theme
+*/
+.bookster-top-bar {
+    background-color: #646464;
+    height: 54px;
+}
+
+.bookster-top-bar .logo-top {
+    float: left;
+    padding-top: 10px;
+}
+
+.bookster-top-bar .ul-top {
+    margin-top: 15px;
+    float: left;
+    width: 230px;
+}
+
+.bookster-top-bar ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 5%;
+}
+
+.bookster-top-bar ul li:first-child {
+    margin-left: 8%;
+}
+
+.bookster-top-bar ul li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #fafbfc;
+    line-height: 12px;
+    font-family: adelle-sans, Helvetica, sans-serif;
+    text-shadow: 0 2px 1px rgba(0,0,0,0.3);
+}
+
+.bookster-top-bar ul li:nth-child(3) a {
+    padding: 7%;
+    border-radius: 4px;
+    text-shadow: none;
+    background-color: #fff;
+    color: #F0465A;
+}
+
+.bookster-top-bar form {
+    margin-top: 10px;
+    margin-left: 5%;
+    width: 30%;
+    float: left;
+    position: relative;
+}
+
+.bookster-top-bar form input {
+    background-color: #fafbfc;
+    border-radius: 5px;
+    border: 2px solid black;
+    font-size: 14px;
+    height: 34px;
+}
+
+form img {
+    position: absolute;
+    top: 8px;
+    right: 1.2%;
+}
+
+.bookster-top-bar .library {
+    margin-left: 1.1%;
+    padding-top: 11px;
+}
+
+.bookster-top-bar .rotund {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10%;
+}
+
+.bookster-top-bar .rotund img {
+    border-radius: 100px;
+
+}
+
