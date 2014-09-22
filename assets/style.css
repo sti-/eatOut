@@ -83,14 +83,13 @@ form img {
 
 .right-container {
     float: right;
-    background-color: red;
-    width: 15%;
+    width: 190px;
 }
 
 .bookster-top-bar .top-bar-right {
     float: left;
     margin-top: 10px;
-    margin-left: 20%;
+    margin-left: 13%;
     width: 150px;
 }
 
