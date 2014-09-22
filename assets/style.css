@@ -76,15 +76,21 @@ form img {
 }
 
 .bookster-top-bar .library {
-    float: left;	
+    float: left;
     margin-left: 1.1%;
     padding-top: 11px;
+}
+
+.right-container {
+    float: right;
+    background-color: red;
+    width: 15%;
 }
 
 .bookster-top-bar .top-bar-right {
     float: left;
     margin-top: 10px;
-    margin-left: 23%;
+    margin-left: 20%;
     width: 150px;
 }
 
