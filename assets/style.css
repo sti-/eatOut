@@ -80,14 +80,37 @@ form img {
     padding-top: 11px;
 }
 
-.bookster-top-bar .rotund {
+.bookster-top-bar .top-bar-right {
     float: right;
     margin-top: 10px;
+    margin-right: 1.2%;
+    width: 150px;
+}
+
+.bookster-top-bar .rotund {
+    float: left;
     margin-right: 10%;
+}
+
+.bookster-top-bar .rotund-last {
+    float: left;
+    margin-top: 3px;
+}
+
+.bookster-top-bar .poza img {
+    border: 2px solid #fff;
 }
 
 .bookster-top-bar .rotund img {
     border-radius: 100px;
+}
 
+.bookster-top-bar .rotund span {
+    color: #fff;
+    padding-left: 5px;
+    font-size: 14px;
+    color: #fafbfc;
+    font-family: adelle-sans, Helvetica, sans-serif;
+    text-shadow: 0 2px 1px rgba(0,0,0,0.3);
 }
 
